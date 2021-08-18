@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+h1 {
+    color:rgb(209, 0, 164);
+    background-color:rgb(34, 39, 41);
+    width:auto;
+    
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:44px;
+    font-weight: 300;
+    text-align:center;
+    padding-top: 13px;
+    padding-bottom: 16px;
+    letter-spacing: 9px;
+    }
+
+
+p {
+    
+    font-family:monospace;
+    color:rgb(34, 39, 41);
+    font-size:18px;
+    }
+
+button {
+    align-items: center;
+    font-family: monospace;
+
+
+    }
