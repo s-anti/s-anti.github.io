@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang = "es">
+
+
+    <head>
+        <title>Sitio 1</title>
+        <link href = "css/estilo.css" rel = "stylesheet">
+        <link href = "pngs/iconos/iconopan.png" rel = "icon">
+    </head>
+
+
+    <body>
+        <header>
+            <h1>Título en grande</h1>
+        </header>
+        
+        <nav>
+            <a 
+                href= "https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                <button>boton loco</button>
+            </a>
+        </nav>
+
+        <p>Texto aaaaaaaaaaaaaaaaasa aaaaaaaaaaaaaaaa</p>
+   
+    </body>
+
+
+</html>
